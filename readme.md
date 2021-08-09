@@ -2,7 +2,7 @@
 
 create "chat" by following socket.io tutorial at https://socket.io/get-started/chat
 
-just run: node install; 
+just run: npm install; 
 
 then: node index;
 
